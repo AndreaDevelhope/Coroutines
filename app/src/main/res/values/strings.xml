@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coroutines 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="edit_text_string">Enter any number</string>
+    <string name="submit">submit</string>
+    <string name="your_number_will_affect_this_field">Your number will affect this field</string>
+    <string name="max_int">2147483647</string>
+</resources>
